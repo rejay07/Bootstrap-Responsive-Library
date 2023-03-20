@@ -1,0 +1,36 @@
+.navbar {
+    background-image: url(images/books.jpg);
+    background-size: cover;
+    opacity: 1;
+}
+.fa-star {
+    color: gold;
+}
+.card {
+    background-color: rgb(23, 252, 252);
+}
+.copyrigth p{
+    margin-bottom: 0px;
+    padding: 0 0 0 0;
+    font-size: x-small;
+}
+.orders .order-price {
+    padding: 0;
+    margin: 0 0 0 0;
+}
+.order-price p{
+    background-color: bisque;
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.order-card {
+    width: 350px;
+}
+.order-price span{
+    justify-content: space-between;
+}
+.col-3 {
+    text-align: end;
+}
+/* rgb(25, 167, 206) */
